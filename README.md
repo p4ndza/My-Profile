@@ -1,78 +1,121 @@
-<h1 align="center">Hi 👋, I'm Nama p4ndz</h1>
-<h3 align="center">🚀 Developer pemula | AI Enthusiast | Open Source</h3>
+<div align="center">
+
+# ⚡ P4NDZ
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+Learning+New+Things;Building+Cool+Projects;Welcome+to+my+GitHub!"/>
+
+<img src="https://komarev.com/ghpvc/?username=p4ndz&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```js
+const p4ndz = {
+    name: "P4NDZ",
+    country: "Indonesia 🇮🇩",
+    role: "Student & Developer",
+
+    currentlyLearning: [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python"
+    ],
+
+    motto: "Code • Learn • Build 🚀"
+}
+```
+
+---
+
+# ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Coding+Everyday!;Always+Learning+New+Things!" />
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nextjs,nodejs,express,python,php,java,mysql,mongodb,firebase,git,github,docker,linux,vscode,figma&perline=7"/>
+
 </p>
 
 ---
 
-## 🌟 About Me
-
-- 🌱 Currently learning **AI & Machine Learning**
-- 💻 Love Web Development
-- 🚀 Open Source Enthusiast
-- 📫 Email: p4ndz1@gmail.com
-
----
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,python,java,mysql,mongodb,git,github,vscode,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=p4ndz&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4ndz&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=p4ndz&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophy
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=p4ndza&theme=tokyonight&row=1&column=6"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=p4ndz&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=p4ndza&theme=tokyo-night"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=p4ndz&theme=algolia&no-frame=true&column=4"/>
+
 </p>
 
 ---
 
-## 🐍 Snake Animation
+# 🌟 Featured Projects
+
+🚀 Coming Soon...
+
+- 💻 Portfolio Website
+- 🤖 AI Project
+- 📱 Full Stack App
+
+---
+
+# 🌐 Connect
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/p4ndza/p4ndza/output/github-contribution-grid-snake.svg"/>
+
+<a href="https://github.com/p4ndz">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Tambahkan link media sosialmu di sini -->
+<!--
+<a href="https://instagram.com/USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+-->
+
 </p>
 
 ---
 
-## 🌐 Connect with Me
+<div align="center">
 
-<p>
-<a href="https://linkedin.com/in/v4ndz">LinkedIn</a> •
-<a href="https://instagram.com/p4ndz">Instagram</a> •
-<a href="https://twitter.com/p4ndz-za">Twitter/X</a>
-</p>
+## ⚡ "Keep Building. Keep Learning."
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00F5FF,100:6C63FF&height=120"/>
 
-⭐ Thanks for visiting my profile!
+</div>
