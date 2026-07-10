@@ -98,15 +98,19 @@ const p4ndz = {
 </a>
 
 <!-- Tambahkan link media sosialmu di sini -->
-<!--
-<a href="https://instagram.com/USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+# 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
--->
+<p align="left">
+  <a href="https://instagram.com/p4ndzz1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@p4ndz" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@v4ndz" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 </p>
 
