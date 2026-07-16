@@ -45,15 +45,15 @@ const p4ndz = {
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=p4ndz&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=p4ndza&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4ndz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4ndza&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=p4ndz&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=p4ndza&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -67,14 +67,36 @@ const p4ndz = {
 
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=p4ndza&theme=algolia" alt="Summary Cards" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4ndza&layout=compact&theme=algolia" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p4ndza&theme=algolia&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=p4ndza&theme=algolia" alt="WakaTime Stats" />
+</p>
+
 ---
 
 # 🏆 GitHub Trophy
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/p4ndza/p4ndza/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=p4ndz&theme=algolia&no-frame=true&column=4"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=p4ndza&theme=algolia&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=p4ndza&theme=algolia" alt="Trophy" />
 </p>
 
 ---
@@ -116,6 +138,20 @@ const p4ndz = {
 
 ---
 
+## 📊 My GitHub Dynamics (Cards)
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=p4ndza&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p4ndza&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+</p>
+---
+
+## 🎵 Now Playing Card (Optional)
+<!-- Card ini akan otomatis menampilkan lagu yang sedang kamu dengar di Spotify (Membutuhkan setup tambahan via Lanyard) -->
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify?background_color=1a1b26&text_color=a9b1d6&bar_color=7aa2f7" alt="Spotify Card" width="400px"/>
+</p>
+
 <div align="center">
 
 ## ⚡ "Keep Building. Keep Learning."
@@ -123,3 +159,4 @@ const p4ndz = {
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:00F5FF,100:6C63FF&height=120"/>
 
 </div>
+
