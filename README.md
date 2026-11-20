@@ -87,18 +87,20 @@ const p4ndz = {
 
 # 🏆 GitHub Trophy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/p4ndza/p4ndza/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-</p>
+<div align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">GitHub Profile Trophy</h2>
+  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
+</div>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p4ndza&theme=algolia&no-frame=true&column=4" alt="GitHub Trophies" />
-</p>
+[![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
+[![forks](https://img.shields.io/github/forks/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/network/members)
+[![issues](https://img.shields.io/github/issues/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/issues)
+[![license](https://img.shields.io/github/license/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/blob/master/LICENSE)
+[![share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)](https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p4ndza&theme=algolia" alt="Trophy" />
-</p>
-
+</div>
 ---
 
 # 🌟 Featured Projects
